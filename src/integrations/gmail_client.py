@@ -52,11 +52,22 @@ class Gmailclient:
             credentials=creds
         )
         logger.info("Connected")
+    def get_email_to(self, headers: list) -> str:
+        """Trích xuất địa chỉ người nhận từ headers của email."""
+        for header in headers:
+            if header.get("name", "").lower() == "to":
+                return header.get("value", "")
+        return ""
     def get_email_subject(self,payload):
         for header in payload:
             if header["name"]=="Subject":
                 return header["value"]
-            
+    def get_email_date(self, headers: list) -> str:
+        """Trích xuất giá trị header Date."""
+        for header in headers:
+            if header.get("name", "").lower() == "date":
+                return header.get("value", "")
+        return ""        
     def get_email_from(self,payload):
         for header in payload:
             if header["name"]=="From":
@@ -97,21 +108,29 @@ class Gmailclient:
         except Exception as e:
             logger.error(f"Lỗi khi đánh dấu đã đọc cho email ID {message_id}: {e}")
             return False
-    def get_sent_mail_one_days(self,batch_size = 50)->list:
+    async def get_sent_mail_one_days(self,batch_size = 50)->list:
         query = "from:me newer_than:1d"
         logger.debug(f"Bat dau quet mail")
         page_token = None
         
         all_emails = []
-        while True:           
-            response = self.service.users().messages().list(
-                userId="me", 
-                q = query,
-                maxResults=batch_size,
-                pageToken = page_token
-                ).execute()
+        while True:
+            try:           
+                response =self.service.users().messages().list(
+                    userId="me", 
+                    q = query,
+                    maxResults=batch_size,
+                    pageToken = page_token
+                    ).execute()
+            except Exception as e:
+                logger.error(f"Loi goi API list messages: {e}")
+                break
             messages = response.get("messages",[])
             
+            if not messages:
+                if not all_emails:
+                    logger.info("Khong tim thay email da gui nao trong 1 ngay qua.")
+                break
             for msg in messages:
                 msg_id = msg["id"]
                 try:
@@ -121,8 +140,10 @@ class Gmailclient:
                         ).execute()
                     email_body = self.get_email_body(message["payload"])
                     subject=self.get_email_subject(message["payload"]["headers"])
-                    sender=self.get_email_from(message["payload"]["headers"])             
-                    mailob = MailSchema(msg['id'],sender,subject,email_body)
+                    sender=self.get_email_from(message["payload"]["headers"])
+                    to = self.get_email_to(message["payload"]["headers"])
+                    sent_at_timestamp = int(message.get("internalDate", 0)) // 1000             
+                    mailob = MailSchema(id=msg['id'],sender=sender,to=to,subject=subject,body=email_body,sent_time=sent_at_timestamp)
                 #)
                     all_emails.append(mailob)
                     time.sleep(0.05)
@@ -168,8 +189,10 @@ class Gmailclient:
                         email_body = self.get_email_body(message["payload"])
                         
                         subject=self.get_email_subject(message["payload"]["headers"])
-                        sender=self.get_email_from(message["payload"]["headers"])             
-                        mailob = MailSchema(msg['id'],sender,subject,email_body)
+                        sender=self.get_email_from(message["payload"]["headers"])  
+                        sent_at_timestamp = int(message.get("internalDate", 0)) // 1000             
+
+                        mailob = MailSchema(id=msg['id'],sender=sender,subject=subject,body=email_body,sent_time=sent_at_timestamp)
                     #)
                         all_emails.append(mailob)
                         time.sleep(0.05)
@@ -181,7 +204,7 @@ class Gmailclient:
                     break
             update_last_sync_timestamp_pg(db_session=session, timestamp=current_time)        
             return all_emails
-    def get_email_from_id(self,id:str)->MailSchema:
+    async def get_email_from_id(self,id:str)->MailSchema:
         message = self.service.users().messages().get(
             userId = "me",
             id = id
@@ -189,7 +212,7 @@ class Gmailclient:
         email_body = self.get_email_body(message["payload"])                        
         subject=self.get_email_subject(message["payload"]["headers"])
         sender=self.get_email_from(message["payload"]["headers"])             
-        return MailSchema(id,sender,subject,email_body)
+        return MailSchema(id=id,sender=sender,subject=subject,body=email_body)
     def create_draft(self,
             to:str,
             subject:str,

@@ -28,3 +28,746 @@
 [2026-09-02 22:00:10] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
 [2026-09-02 22:01:54] [INFO] [src.integrations.gmail_client:54] - Connected
 [2026-09-02 22:01:54] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-03 22:38:56] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-03 22:38:56] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-03 22:43:56] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-03 22:43:56] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-03 22:46:44] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-03 22:46:44] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-03 22:46:46] [INFO] [src.integrations.gmail_client:121] - Khong tim thay email da gui nao trong 1 ngay qua.
+[2026-09-03 22:48:12] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-03 22:48:12] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-03 22:50:12] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-03 22:50:12] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-04 22:33:43] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-04 22:33:43] [DEBUG] [src.integrations.gmail_client:155] - Bat dau quet mail tu 1788332872
+[2026-09-04 22:34:03] [DEBUG] [__main__:53] - email.body: Pinterest
+
+651 Brannan Street, San Francisco, CA, 94107
+
+    Trung tâm Trợ giúp: https://www.pinterest.com/email/click/?user_id=MTE0OTMzMjkwNDgxMjUzNTcxMQ%3D%3D&od=dD1iYzVmMzg5ODBhMzU0ZDE4OWVhMmE3M2YyNTM4NTVlOSZjPUxFR0FMX1RPU19BTkRfUFJJVkFDWV9QT0xJQ1lfVVBEQVRFX05PVElDRSZzPU5vbmUmbj1Ob25l&target=https%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fhelp%2F%3Fsource%3Demail_footer%26utm_campaign%3Dtos_jun_2026%26e_t%3Dbc5f38980a354d189ea2a73f253855e9%26e_t_s%3Dfooter%26utm_source%3D31%26utm_medium%3D2035
+
+    Chính sách Quyền riêng tư: https://www.pinterest.com/email/click/?user_id=MTE0OTMzMjkwNDgxMjUzNTcxMQ%3D%3D&od=dD1iYzVmMzg5ODBhMzU0ZDE4OWVhMmE3M2YyNTM4NTVlOSZjPUxFR0FMX1RPU19BTkRfUFJJVkFDWV9QT0xJQ1lfVVBEQVRFX05PVElDRSZzPU5vbmUmbj1Ob25l&target=https%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fprivacy-policy%2F
+
+    Điều khoản và điều kiện: https://www.pinterest.com/email/click/?user_id=MTE0OTMzMjkwNDgxMjUzNTcxMQ%3D%3D&od=dD1iYzVmMzg5ODBhMzU0ZDE4OWVhMmE3M2YyNTM4NTVlOSZjPUxFR0FMX1RPU19BTkRfUFJJVkFDWV9QT0xJQ1lfVVBEQVRFX05PVElDRSZzPU5vbmUmbj1Ob25l&target=https%3A%2F%2Fwww.pinterest.com%2F_%2F_%2Fpolicy%2Fterms-of-service%2F
+
+    Quản lý cài đặt email: https://www.pinterest.com/email/click/?user_id=MTE0OTMzMjkwNDgxMjUzNTcxMQ%3D%3D&od=dD1iYzVmMzg5ODBhMzU0ZDE4OWVhMmE3M2YyNTM4NTVlOSZjPUxFR0FMX1RPU19BTkRfUFJJVkFDWV9QT0xJQ1lfVVBEQVRFX05PVElDRSZzPU5vbmUmbj1Ob25l&target=https%3A%2F%2Fwww.pinterest.com%2Femail%2Funsubscribe%2F%3Fuser_id%3DMTE0OTMzMjkwNDgxMjUzNTcxMQ%253D%253D%26od%3DJylIklrw%252FUWHMAYw7zv0ny0%252F7lv5sxaohW7%252BoX1WFsHrXX2ZzQ%252BYphooS9Eaa7bKx%252FdvE4Mo898fOtKR6GYtcsJSDgKxhFNKIbIh%252FNwol%252BwYCfQLA%252FIrRB%252BseSBjiBYZ4cMYgo7LfBw590Vblf4GEfzjewVARCYyLoVysgie0YV7mx1Nr5Nt%252BfQ4XYsuXt6wKjtll%252FeF%252Fvle6Rvm8uTdjelM6c3JJ8heQcdoOeRbWxIY9XdRprNeMxmXjLDii9wBwlKItQ37OY0%252BpE7yh00P0KKsopBahlMLBYQW8wWmnpUdTsBemHTR0Fgu5UCoXnk%252FSKbpKp0Wu%252Ft8oiGjCXt0f0n%252B%252BPsyS8o7WanJvD7o8fwuEWBrOrKcmpTcfstJf4KdbE94GAE2B26h2u8hyjetRsjlNdhGxjzxbA8XsoZa4sFbfKLSISdd8n%252FcefNyMSwm%26utm_campaign%3Dtos_jun_2026%26e_t%3Dbc5f38980a354d189ea2a73f253855e9%26e_t_s%3Dfooter%26utm_source%3D31%26utm_medium%3D2035
+
+    Không phải tài khoản của tôi: https://www.pinterest.com/email/click/?user_id=MTE0OTMzMjkwNDgxMjUzNTcxMQ%3D%3D&od=dD1iYzVmMzg5ODBhMzU0ZDE4OWVhMmE3M2YyNTM4NTVlOSZjPUxFR0FMX1RPU19BTkRfUFJJVkFDWV9QT0xJQ1lfVVBEQVRFX05PVElDRSZzPU5vbmUmbj1Ob25l&target=https%3A%2F%2Fwww.pinterest.com%2Femail%2Fremove%2F%3Fuser_id%3DMTE0OTMzMjkwNDgxMjUzNTcxMQ%253D%253D%26od%3DJylIklrw%252FUWHMAYw7zv0ny0%252F7lv5sxaohW7%252BoX1WFsHrXX2ZzQ%252BYphooS9Eaa7bKx%252FdvE4Mo898fOtKR6GYtcsJSDgKxhFNKIbIh%252FNwol%252BwYCfQLA%252FIrRB%252BseSBjiBYZ4cMYgo7LfBw590Vblf4GEfzjewVARCYyLoVysgie0YV7mx1Nr5Nt%252BfQ4XYsuXt6wKjtll%252FeF%252Fvle6Rvm8uTdjelM6c3JJ8heQcdoOeRbWxIY9XdRprNeMxmXjLDii9wBwlKItQ37OY0%252BpE7yh00P0KKsopBahlMLBYQW8wWmnpUdTsBemHTR0Fgu5UCoXnk%252FSKbpKp0Wu%252Ft8oiGjCXt0f0n%252B%252BPsyS8o7WanJvD7o8fwuEWBrOrKcmpTcfstJf4KdbE94GAE2B26h2u8hyjetRsjlNdhGxjzxbA8XsoZa4sFbfKLSISdd8n%252FcefNyMSwm%26utm_campaign%3Dtos_jun_2026%26e_t%3Dbc5f38980a354d189ea2a73f253855e9%26e_t_s%3Dfooter%26utm_source%3D31%26utm_medium%3D2035
+[2026-09-04 22:34:05] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['CHÍNH SÁCH ĐƠN HÀNG & SẢN PHẨM\nQ: Sản phẩm của shop có sẵn không? Có đúng như hình không?\nA: Toàn bộ sản phẩm hiển thị trên website/fanpage đều là hàng có sẵn (trừ các mặt hàng ghi chú "Order").', 'Ưu đãi: Miễn phí vận chuyển cho đơn hàng từ 500.000 VNĐ trở lên.\n Q: Tôi có được kiểm tra hàng trước khi thanh toán (Đồng kiểm) không?'], 'context_found': True}
+[2026-09-04 22:34:05] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:34:14] [DEBUG] [__main__:53] - email.body: Hi Bình,
+
+💬 Hiền Lê commented on Nguyễn Hòa's post.
+
+Thanks,
+The Facebook team
+
+
+
+========================================
+This message was sent to superping37@gmail.com. If you don't want to receive these emails from Meta in the future, please follow the link below to unsubscribe.
+https://www.facebook.com/o.php?k=AfHI2yYyzpCdXAhNip1iz4BW6yg&u=100016142898442&mid=65aa7ea54d189G5af6d2ab550aG65aa833ead45bG207c&ee=AQDuv0D6_zPS9m2seoU_YB3MoE6LoZ8_MNmZEWnjU51jPpM2OerIl18FJIzOzMFLX0h2gfe7XlWKO1bzRadd
+Meta Platforms, Inc., Attention: Community Support, 1 Meta Way, Menlo Park, CA 94025
+To help keep your profile secure, please don't forward this email. Follow the link below to learn more.
+https://www.facebook.com/email_forward_notice/?mid=65aa7ea54d189G5af6d2ab550aG65aa833ead45bG207c
+
+
+[2026-09-04 22:34:17] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['Q: Giá sản phẩm đã bao gồm phí vận chuyển và thuế chưa?\nA: Giá niêm yết trên sản phẩm là giá gốc, chưa bao gồm phí vận chuyển.', 'Khách hàng thanh toán phí ship hai chiều.'], 'context_found': True}
+[2026-09-04 22:34:17] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:34:22] [DEBUG] [__main__:53] - email.body: https://soniox.com/text-to-speech?utm_source=email&utm_campaign=tts_v2_voicecloning
+
+Hi,
+
+We’ve shipped a major improvement to voice cloning.
+
+You can now create an instant voice clone from up to 2 minutes of reference audio, compared with 20 seconds before.
+
+The longer reference sample gives the model much more information about the voice, capturing a wider range of phonemes, intonation, pauses, rhythm, pacing, emphasis, emotion, and speaking style.
+
+This results in:
+
+• Higher voice similarity
+
+• Greater consistency, especially across longer sentences
+
+• Better pronunciation coverage
+
+• More natural prosody, including rhythm, emphasis, pacing, and emotion
+
+• Better preservation of speaking style
+
+We’ve also improved overall voice quality in Soniox TTS v2 across both built-in and cloned voices.
+
+Try the improved Soniox TTS v2:
+
+https://soniox.com/text-to-speech (https://soniox.com/text-to-speech?utm_source=email&utm_campaign=tts_v2_voicecloning)
+
+Best,
+The Soniox Team
+
+P.S. For more news, follow us on X (https://x.com/soniox_ai) and Linkedin (https://www.linkedin.com/company/soniox) .
+
+The voice platform for every language.
+
+Website (https://soniox.com/?utm_medium=email&utm_campaign=onboarding)  ·  Docs (https://soniox.com/docs?utm_medium=email&utm_campaign=onboarding)  ·  Console (https://console.soniox.com/?utm_medium=email&utm_campaign=onboarding)  ·  Discord (https://discord.gg/rWfnk9uM5j)  ·  X (https://x.com/soniox_ai)  ·  Linkedin (https://www.linkedin.com/company/soniox/)
+
+© Soniox, Inc. All rights reserved. · Unsubscribe (https://soniox.us14.list-manage.com/unsubscribe?u=6d57051f60c7927d07f7c1b06&id=49d69ed6aa&t=b&e=ea7c69417f&c=8806800279)
+[2026-09-04 22:34:26] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['Ưu đãi: Miễn phí vận chuyển cho đơn hàng từ 500.000 VNĐ trở lên.\n Q: Tôi có được kiểm tra hàng trước khi thanh toán (Đồng kiểm) không?'], 'context_found': True}
+[2026-09-04 22:34:26] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:34:35] [DEBUG] [__main__:53] - email.body:           
+          Hi Trần Xuân Bình,
+          
+          Our Job Robot found 4 new ITviec Recruitment Consulting     jobs for you.
+          View My Jobs (https:/itviec.com/companies/itviec-recruitment-consulting?lab_jr_age=91-135&amp;amp;lab_jr_frequency=jr-daily&amp;amp;utm_campaign=jobrobot&amp;amp;utm_medium=cta-click&amp;amp;utm_source=Email)
+          
+          **************************************************
+          
+          Job 1:              Business Central Consultant
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    ERP • Oracle • IT Support • English • Microsoft Dynamics 365 • Business Analysis
+          
+          Job 2:              Engineering Manager (Digital Banking / Fintech Product)
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    Database • DevOps • Team Management • API • Microservices • AWS
+          
+          Job 3:              Product Owner Leader/Manager (Japanese N1/N2)
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    Product Owner • Bridge Engineer • IT Communication/Translation • Japanese IT Communication • Japanese
+          
+          Job 4:              Head of Engineering
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    TypeScript • DynamoDB • AWS • CI/CD • NodeJS • ReactJS
+          
+          View more  jobs in  at https:/itviec.com/companies/itviec-recruitment-consulting?lab_jr_age=91-135&amp;amp;lab_jr_frequency=jr-daily&amp;amp;utm_campaign=jobrobot&amp;amp;utm_medium=cta-click&amp;amp;utm_source=Email
+          
+          **************************************************
+          
+          By engaging with this email, you agree to ITviec’
+          Terms  Conditions (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B10jhahBVCcLLThECzRIiACedoKc84s08n2VjDXU-2F4-2BC35ATqa51SdO8sFdqCGQ6-2Bw-3D-3D2q8i_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQp1aMnnwfkdiiF9tJvh5AEWecR4BdGRSTzj6dH-2BD2SUDoJGpTYTH4YA8s7D7tzi-2FC11EVTsCTaAbDMAS9-2FlmY8X6l-2BKbZOQupernUVNXm3d6TMm-2BuGtID5Db7eSEW38kIT7zNLrnJkT-2BlofL6uPQbzsidvXmaTpALN-2Bmkl4Ep0Cq0fi6fZ59ulEawDfBqiFAU8138z-2BiX2hI7bb-2FK4GGSZo-3D
+          and
+          Privacy Policy (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B10jhahBVCcLLThECzRIiAAyRwsv5oPBQ0Dz4Bfy5gq2-2FMHCmn5Edy7OKQdh59gcLA-3D-3DDq1c_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQp1aMnnwfkdiiF9tJvh5AEU0Uojk3l5x0Rwb94TWBQ-2Fna-2B4nvISxiGqyNmH5CKZgzOEawotRIePNKz3OHwowSrIdfYDNbiHLnRV1yaPgGyg9E897cW6NsEh-2Bnwg2AIkQRGoeas4WKlxuN0b8xwE-2Bg1KreHDJT9MdLA9KvEE-2BUzlRPUbQCnhIt0cvid95eJeU-2FTdP3elNUmsZLzssQ-2FXsZmE-3D
+          in relation to your privacy information.
+          Manage you Job Robot&quot; (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B5zKppq6zeRH3EWVKcc1om69SlW-2Bx9svp8iab83S88Lu-haO_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQp1aMnnwfkdiiF9tJvh5AEV03JM3RtAibOmHFuKw2g0RlA03UCbUOPAk-2FyrYnsmHzzg1isbfzr9Q1R26lJbVJ9T8C4RfeIbVnQwUeKpRsBKVSdkKT-2FeaSUxPdfCcJxNPw4TQF2cD73auT7VJSXH7FOEEaa9JI4t5LVBaEyt4CgQKGol5ke49f0Fs4Ncj4mOjzrEC7Odn1yk1XBoLs0T5Z7s-3D
+          •
+          Unsubscribe (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B4gvI0y-2BCjkBvOTgzra1bZ-2F6kv5sWhCZ7W9AK6sl-2FRqzNclrdwQDc7zL4wv2XlyAu41yDke7Il1FJ1MzWZnHgFQGTFj8eiagdlhhoai7cfSXhaSaD6GR1jviQ9hvsY93gnDbtEN8wNVxhEYpD6OUkJJsD8-2B-2FjV4HSpyc83oi6HH8HtNqw8mJZJu6cj-2BkMLbCzWTFFC18Rkd0VdfeccylOMl6qaFWaA1YblBeV9faXR2mdpPAf47IRIjYPbW2NevMqA-3D-3DKqHX_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQp1aMnnwfkdiiF9tJvh5AEVUIWt4BlyuFHhs7O0m04agzVQ2rIlatTGYSYs7hjxjKb11-2BTDCGscO42HhiIyh5FEn-2Bujcee9EuT2UOHNSyzCc33RnyqBlPrIZ92PSKn1ICqKQJbpWv4g8-2BLv3hGXqsUqxkF4FCBzYa5aoCn8BfPjKDBgetg4nRwixWn1CEcV0i40z364YGSuMpg9uFZ4Tn9s-3D
+          •
+          Unsubscribe All(https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B-2FsWcvqmugYTXvQTMH-2FLGQHuu5nZWOcixYvPphp-2FFpQyEDznlRUYYzhHEe2-2FHsTDo-2BtfQEb9VKYi-2F-2FyRTwFiCozMGO-2BDKYC73283R95pFMCMJSfCqvu7Sy-2BklNyGITTsqDvQzFDTuNYV48nZ1XKt-2FHmg7ACvc7I-2BnB-2FQq0KOj67-2BcYfs5-2FJ7RcAQ3jpBwYk-2FBUtsKIYb-2B725QgLN52uG9HxrI0c-2FIlBpkxDD89RP-2FB7vCvCPAx7CxWeic-2FqsqGtemTRXuaeW3MSrXpAeQX6LFQA-3D7zY9_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQp1aMnnwfkdiiF9tJvh5AEV7dpRud1jMmpoQ8N9J-2FZhUAL8ZXY7OKnBiaNbiFFjODlQvgUwyNiAcaz05CDkHU36F5FvWO5jj0XE2bgDVsRPaYxcUzVdpF-2BzJq4sapemNdqVHISb85rL6oBmgrZOQHLqwvHwTceMucJSCy7ifCbxJdkG3-2BdPkSOIKmutiF-2ByqzBym-2BAHw3rozbIMzksM24Zk-3D
+
+
+[2026-09-04 22:34:39] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['CHÍNH SÁCH ĐƠN HÀNG & SẢN PHẨM\nQ: Sản phẩm của shop có sẵn không? Có đúng như hình không?\nA: Toàn bộ sản phẩm hiển thị trên website/fanpage đều là hàng có sẵn (trừ các mặt hàng ghi chú "Order").', '🔄 CHÍNH SÁCH ĐỔI TRẢ & BẢO HÀNH\n Q: Tôi mua nhầm size hoặc không ưng ý thì có được đổi không?\n A: Shop hỗ trợ đổi size/mẫu trong vòng 7 ngày kể từ khi nhận hàng.'], 'context_found': True}
+[2026-09-04 22:34:39] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:34:49] [DEBUG] [__main__:53] - email.body: ========================================
+View on Facebook
+https://www.facebook.com/nd/?groups%2Fyeuwordpress%2Fpermalink%2F1615248296932973%2F&aref=1788507279904646&medium=email&mid=65aa30382ccb4G5af6d2ab550aG65aa34d18cf86G96&bcode=2.1788507334.Ab1vLI24pPZ9qoED75JH0OnZro8&n_m=superping37%40gmail.com&n_sg=Q6bPBAP8Sm3bPMy-tb3bmQrjEpkhlyMygpv5nwdrCfsGO33skg&lloc=view_on_facebook_btn_text&rms=v2&irms=1&lfes=0
+
+========================================
+
+Hi Bình,
+
+"Cần tìm cá nhân thiết kế web nhà hàng cho bên mình, để lại thông tin mình tư liên hệ ạ, mình cảm ơn."
+
+
+
+========================================
+This message was sent to superping37@gmail.com. If you don't want to receive these emails from Meta in the future, please follow the link below to unsubscribe.
+https://www.facebook.com/o.php?k=AfFQmsAwD2DvcGQRMOYmXxHt2EE&u=100016142898442&mid=65aa30382ccb4G5af6d2ab550aG65aa34d18cf86G96&ee=AQCdvbbjY2B2jGm1nyKMqNCZQG8OTVO46DUbAW3Jaa9yp7iuUBKS6W0Fq2vaXnHvHZcvge13ztiu81CRS9z_
+Meta Platforms, Inc., Attention: Community Support, 1 Meta Way, Menlo Park, CA 94025
+To help keep your profile secure, please don't forward this email. Follow the link below to learn more.
+https://www.facebook.com/email_forward_notice/?mid=65aa30382ccb4G5af6d2ab550aG65aa34d18cf86G96
+
+
+[2026-09-04 22:34:53] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['CHÍNH SÁCH ĐƠN HÀNG & SẢN PHẨM\nQ: Sản phẩm của shop có sẵn không? Có đúng như hình không?\nA: Toàn bộ sản phẩm hiển thị trên website/fanpage đều là hàng có sẵn (trừ các mặt hàng ghi chú "Order").', 'Q: Giá sản phẩm đã bao gồm phí vận chuyển và thuế chưa?\nA: Giá niêm yết trên sản phẩm là giá gốc, chưa bao gồm phí vận chuyển.'], 'context_found': True}
+[2026-09-04 22:34:53] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:34:59] [DEBUG] [__main__:53] - email.body:           
+          Hi Trần Xuân Bình,
+          
+          Our Job Robot found a new ITviec Recruitment Consulting     job for you.
+          View My Jobs (https:/itviec.com/companies/itviec-recruitment-consulting?lab_jr_age=91-135&amp;amp;lab_jr_frequency=jr-daily&amp;amp;utm_campaign=jobrobot&amp;amp;utm_medium=cta-click&amp;amp;utm_source=Email)
+          
+          **************************************************
+          
+          Job 1:              Engineering Manager (Digital Banking / Fintech Product)
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    Database • API • Microservices • AWS • DevOps • Team Management
+          
+          View more  jobs in  at https:/itviec.com/companies/itviec-recruitment-consulting?lab_jr_age=91-135&amp;amp;lab_jr_frequency=jr-daily&amp;amp;utm_campaign=jobrobot&amp;amp;utm_medium=cta-click&amp;amp;utm_source=Email
+          
+          **************************************************
+          
+          By engaging with this email, you agree to ITviec’
+          Terms  Conditions (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B10jhahBVCcLLThECzRIiACedoKc84s08n2VjDXU-2F4-2BC35ATqa51SdO8sFdqCGQ6-2Bw-3D-3DVU07_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqtILoL8E-2BA9vhv-2BbTR9MPRY0qMmeVvrrLj-2BroRtJDGIfjJYVB4DFCPEV38NlA4DTOZj3Mt1BUzfS8IM-2FHUQUHQLVnMlVYAP98-2BS9HnEHbUujGB2VR1Ym-2FJqlmFr9KZAGS-2BYRKVY97zywyIA4uZlOAPJdh3itDJ9-2BVOom0XO7QLDCGUq7D8ms57ea7lxAEmJ6t-2BnwzCSs-2F0-2FbeDJXoCBCCk-3D
+          and
+          Privacy Policy (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B10jhahBVCcLLThECzRIiAAyRwsv5oPBQ0Dz4Bfy5gq2-2FMHCmn5Edy7OKQdh59gcLA-3D-3DQ3gt_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqtILoL8E-2BA9vhv-2BbTR9MPRFzR62k-2BYK0PdLTelskq78DTXWDvhflNZF7L8r7wQDQq-2BGXAG6inEJKcz4ROw7FD7zXEMpKQR2c2KhBTcFmxb16S4tmw8BJcLa4P81zyuanoKSx-2F1bj7Pp8yObFWyPbj2yJdYhaBLhZF40A-2BqWX5GRl-2BD5dRV4o4A6aW2vaY1AZtywmHEK51akh22EEK9O-2F9c-3D
+          in relation to your privacy information.
+          Manage you Job Robot&quot; (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B5zKppq6zeRH3EWVKcc1om69SlW-2Bx9svp8iab83S88Lue4IW_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqtILoL8E-2BA9vhv-2BbTR9MPTpfdjD5AoYo9IUmkfJGOyNRm75o7YI-2FQGEvi4mX-2BI-2B78Xd6yM17I9jFeKCGb5xSygqi83a9cLYnUktifTD-2FqVLLU0PAL-2BS019WHeKmCaJWJwBv9MqlHa6OrmU77cGUR9f8BaJ-2FV0h-2Fhrn8Cw669Bjg8Zco1aS6U8xJMHMNzMZkvprWUJvaib6NfsyzfgDe5aM-3D
+          •
+          Unsubscribe (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B4gvI0y-2BCjkBvOTgzra1bZ-2F6kv5sWhCZ7W9AK6sl-2FRqzNclrdwQDc7zL4wv2XlyAu41yDke7Il1FJ1MzWZnHgFQGTFj8eiagdlhhoai7cfSXhaSaD6GR1jviQ9hvsY93gnDbtEN8wNVxhEYpD6OUkJJsD8-2B-2FjV4HSpyc83oi6HH8HtNqw8mJZJu6cj-2BkMLbCzWTFFC18Rkd0VdfeccylOMl6qaFWaA1YblBeV9faXR2mdpPAf47IRIjYPbW2NevMqA-3D-3Dha3L_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqtILoL8E-2BA9vhv-2BbTR9MPRC6qCK53SMqA6DsGradsBCMsCRY0scr1oe4wed9Ec5kbtXhSsqdl3EPdAiRWf2kzLDiYh5YCrXnXFMG5RAShZfrOXbDYfQBCfdtsQiLcj7pdSRv5UWcbgvC0oUKarF0x9zZUIavgTBo0pmjS90N93IJ8BJwZbINhMY6fD2OhP5ZilOMOxb97r1CRd6yVi4Z74-3D
+          •
+          Unsubscribe All(https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B-2FsWcvqmugYTXvQTMH-2FLGQHuu5nZWOcixYvPphp-2FFpQyEDznlRUYYzhHEe2-2FHsTDo-2BtfQEb9VKYi-2F-2FyRTwFiCozMGO-2BDKYC73283R95pFMCMJSfCqvu7Sy-2BklNyGITTsqDvQzFDTuNYV48nZ1XKt-2FHmg7ACvc7I-2BnB-2FQq0KOj67-2BcYfs5-2FJ7RcAQ3jpBwYk-2FBUtsKIYb-2B725QgLN52uG9HxrI0c-2FIlBpkxDD89RP-2FB7vCvCPAx7CxWeic-2FqsqGtemTRXuaeW3MSrXpAeQX6LFQA-3DAABf_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqtILoL8E-2BA9vhv-2BbTR9MPTf-2B6a0cGla4Bz5PW97itumvJA-2FbQ2BgjrVK5ytGbrtnWR1rIi9JfGTY5oA-2FpApRMCPqpjIZIddgDIiRMGlu77Xzdk40BYj22rd2y11-2FFRfmXVyPR9TWNtBAPMLfknYsd2oSV2efJsoEoe5BxW-2FbUkb9-2Fa-2BocrojUUBjcrafKcKhr4GNyBQnm95-2BD7l9Z04JOU-3D
+
+
+[2026-09-04 22:35:04] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['CHÍNH SÁCH ĐƠN HÀNG & SẢN PHẨM\nQ: Sản phẩm của shop có sẵn không? Có đúng như hình không?\nA: Toàn bộ sản phẩm hiển thị trên website/fanpage đều là hàng có sẵn (trừ các mặt hàng ghi chú "Order").', '🔄 CHÍNH SÁCH ĐỔI TRẢ & BẢO HÀNH\n Q: Tôi mua nhầm size hoặc không ưng ý thì có được đổi không?\n A: Shop hỗ trợ đổi size/mẫu trong vòng 7 ngày kể từ khi nhận hàng.'], 'context_found': True}
+[2026-09-04 22:35:04] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:35:11] [DEBUG] [__main__:53] - email.body: 
+No time to create ads? That's no problem with AI.
+
+What if you could design eye-catching ads that deliver real results without needing to be a marketing expert? With Advantage+ creative, you can.
+
+This AI-enabled feature is designed to help you create high-performing ads with ease, so you can get back to what you do best – running your business.
+
+[Try it today](https://www.facebook.com/adsmanager)
+[Learn more](https://www.facebook.com/business/ads/meta-advantage-plus/creative)
+
+How Advantage+ creative helps you succeed:
+
+Optimise ads for performance.
+
+Advantage+ creative tools can help ensure that your ad creative is optimised to perform best on Meta technologies. Our AI analyses your images, video and text, making smart adjustments to help your ads reach their full potential.
+
+Personalise creative for your customers.
+
+Reach customers with exactly the right creative that will make them convert by instantly producing and enhancing diverse ads in multiple formats, tailored to your audience.
+
+Save time with a simplified workflow.
+
+The solutions are right in Ads Manager while you set up your campaigns. Use the tools for your creative, preview your options and hit publish. That's it!
+
+See Advantage+ creative in action.
+
+Watch our short video to learn how this AI-enabled feature can transform the way you advertise.
+
+[Watch video](https://www.youtube.com/watch?v=tHYpY-JA0-0&list=PLDLOX_aRgZSAJwPUkyLOhOPvEWukxskOd&index=5)
+
+Make ads that work hard on your behalf.
+
+Start using Advantage+ creative to transform your images and videos into the best ads for your audience.
+
+[Try it today](https://www.facebook.com/adsmanager)
+[Learn more](https://www.facebook.com/business/ads/meta-advantage-plus/creative)
+
+[Meta](https://www.facebook.com/business?content_id=uEKRM9gFBJItvSp)
+
+This email address is subscribed to [Meta for Business](https://www.meta.com/business/) communications. Click here to [unsubscribe](https://www.facebook.com/business/unsubscribe/?eid=ac4acb55d1a148a2947ba2f1710888c7&cid=285198521887193&source=mc) or [learn more](https://www.meta.com/business/) about advertising.
+
+© 2026 Meta. Meta Platforms Inc., 1 Meta Way, Menlo Park, CA 94025, United States or where the Meta Products are offered to you by Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Ireland
+
+
+[2026-09-04 22:35:16] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': [], 'context_found': False}
+[2026-09-04 22:35:16] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:35:32] [DEBUG] [__main__:53] - email.body: Hey, it's Zeno.
+
+This month, we gave every account 3 free domains on the free tier https://resend.com/changelog/three-domains-on-the-free-tier, we've added custom suppression lists https://resend.com/changelog/suppression-list-support, support for agent plugins https://resend.com/changelog/agent-plugins-standard and the new MCP spec https://resend.com/changelog/resend-mcp-supports-the-new-2026-07-28-spec.
+
+We also dropped an entire headless analytics API https://resend.com/changelog/email-metrics-api that's extensible so we can continue to add additional metrics to fit your needs.
+
+And don't forget our first-ever conference, Resend Forward https://resend.com/forward, is quickly approaching.
+
+Quick question:
+
+> What feature should we put on our roadmap?
+
+Just hit reply. We read every answer.
+
+
+
+
+
+3 DOMAINS FOR ALL
+
+https://resend.com/changelog/three-domains-on-the-free-tier
+
+The free tier now includes 3 verified domains, so you can build and send from more projects without upgrading. Every free team can now verify up to three domains, in any region, at no cost.
+
+→ Read the changelog https://resend.com/changelog/three-domains-on-the-free-tier
+
+
+
+
+
+HEADLESS EMAIL ANALYTICS
+
+https://resend.com/changelog/email-metrics-api
+
+Get data about your emails, from the send volume to unsubscribe rate, grouped or filtered by the period, domain, broadcast, or email.
+
+→ Try the new Metrics API https://resend.com/changelog/email-metrics-api
+
+
+
+
+
+A NEW WAY TO VERIFY YOUR EMAIL
+
+https://resend.com/blog/email-verification-api
+
+A new proposal aims to enable email verification directly within the browser. We covered all the details, and built a library for you to try it out.
+
+→ Read the blog post https://resend.com/blog/email-verification-api
+
+
+
+
+
+RESEND NOW SUPPORTS AGENT PLUGINS
+
+https://resend.com/changelog/agent-plugins-standard
+
+Resend Skills added support for the Agent Plugins Standard, an open, vendor-neutral standard for packaging skills and MCP servers into a portable plugin.
+
+→ Check the guide https://resend.com/changelog/agent-plugins-standard
+
+
+
+
+
+MANAGE YOUR OWN SUPPRESSIONS
+
+https://resend.com/changelog/suppression-list-support
+
+Spam complaints and hard bounces can wreck your sending reputation, which is why Resend has always suppressed those addresses behind the scenes. Now you can see, manage, and automate your suppression list yourself. Here's how the new tools work.
+
+→ Learn more about Suppressions https://resend.com/changelog/suppression-list-support
+
+
+
+
+
+RESEND SUPPORTS THE NEW MCP SPEC
+
+https://resend.com/changelog/resend-mcp-supports-the-new-2026-07-28-spec
+
+The MCP specification just released a major upgrade, and now Resend's remote MCP server supports this latest version.
+
+→ Read the changelog https://resend.com/changelog/resend-mcp-supports-the-new-2026-07-28-spec
+
+
+
+
+
+A FULL VIDEO TOUR
+
+
+https://youtu.be/FzoakVwRm2Q
+
+Take a full tour of Resend, the email API built for developers. In under 8 minutes, see how to authenticate your domain, send transactional and marketing emails, build automations, and debug with full observability, all from the dashboard, API, SDKs, CLI, or MCP.
+
+→ Watch the video http://youtube.com/watch?v=FzoakVwRm2Q
+
+
+
+
+
+FOR BUILDERS WHO CARE
+
+https://forward.resend.com/register/discount/RESEND-USER
+
+It's easier than ever to make software, fast. Today, true artisans are differentiated on their attention to detail.
+
+We're hosting a conference to gather builders who still care about their craft. Those who:
+
+ * Lose sleep over an abstraction
+
+ * Tweak designs pixel-by-pixel
+
+ * Spend time fixing things most will never notice
+
+Resend Forward takes place October 21, 2026 in San Francisco.
+
+Since you're a user, we've set aside a reduced rate for you.
+
+→ Attend Forward https://forward.resend.com/register/discount/RESEND-USER
+
+
+
+
+Happy sending,
+Zeno Rocha
+
+----------------------------------------
+
+You are receiving this email as a user of Resend.
+
+Want to change how you receive these emails?
+You can unsubscribe from this list https://unsubscribe.resend.com/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250YWN0SWQiOiJjN2FlZWJlOS04MDU3LTRmMGUtODU2NS0yMmU1MmYwNTJlMDEiLCJhdWRpZW5jZUlkIjoiMzViMWNmZjEtYzM4MS00ZDZmLTk5NGUtNDkwNGY4NTVmMmM3IiwiYnJvYWRjYXN0SWQiOiJjN2U5ZDk0My1hYWYwLTQzMDQtYWUwYi1jMWI3MzVlYWFhNjQiLCJ0ZWFtSWQiOiI0MGI0OGMwOS0xYmYxLTRkNjItYWYyOS03YzE2MTNkMmVkNzUiLCJleHAiOjE4MTk4MjczNzZ9.7U6BuzftHhRDqliuwEGHbMNkyGvfMUDMMrxzmd7bKjY.
+
+2261 Market Street #5039
+San Francisco, CA 94114
+[2026-09-04 22:35:37] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': [], 'context_found': False}
+[2026-09-04 22:35:37] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:35:48] [DEBUG] [__main__:53] - email.body: Stay protected from malware, phishing, and more Stay protected from malware, 
+phishing, and more 
+
+
+ 
+<https://www.malwarebytes.com/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=Header>
+ 
+<https://www.malwarebytes.com/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=Header>
+Leave the protection 
+to us 
+
+
+You’ve got enough to think about without wondering what’s hiding behind every 
+link, download, or email.
+
+ Malwarebytes Standard blocks malware, phishing, and other online threats 
+while you get on with your day.
+
+ And right now, it’s 40% off. 
+ Save 40%  <https://mwb.link/4iDIpgf> 
+
+
+ 
+<https://www.malwarebytes.com/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=MWB_Footer>
+ 
+<https://www.malwarebytes.com/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=MWB_Footer>
+ Powerful digital protection that’s always by your side 
+ Can’t see the email?  •  View in browser  
+<https://clicks.malwarebytes.com/s/vb/t9P2EEk9D2pUqkfTrZtPAuj6Vb_txdlKwqKGl1lzZwPdDa4G4HsFR2V0pCNqzU3ChJ2Ocqtko7jwzIdN7uQ1KBGOyO7bcxuhpl23Q2JPJ48rTyntAD0UDcE77cKAdSczYPf8V6fALGSWK0WrsaYIpQV8qKJmeowto2edWw/c9FHuKSEu7t7NZWjfhuCmsmIseQo4XRg/24>
+Manage Preferences 
+<https://www.malwarebytes.com/manage-communication-subscriptions?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InN1cGVycGluZzM3QGdtYWlsLmNvbSIsImV4cCI6MTc5MDE4Mzg4MX0.2BiCvfbrOKqmPvE34L78zkDHmkMSUu8nJ5VM2fuPUyg&amp;utm_source=iterable&amp;utm_medium=email&amp;utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&amp;utm_content=preference_center>
+ • Unsubscribe 
+<https://www.malwarebytes.com/manage-communication-subscriptions?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InN1cGVycGluZzM3QGdtYWlsLmNvbSIsImV4cCI6MTc5MDE4Mzg4MX0.2BiCvfbrOKqmPvE34L78zkDHmkMSUu8nJ5VM2fuPUyg&amp;utm_source=iterable&amp;utm_medium=email&amp;utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&amp;utm_content=preference_center>
+ • Privacy Policy 
+<https://www.malwarebytes.com/legal/privacy-policy/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=privacy_policy>
+ • Terms of Service 
+<https://www.malwarebytes.com/tos/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=terms_of_service>
+Manage Preferences 
+<https://www.malwarebytes.com/manage-communication-subscriptions?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InN1cGVycGluZzM3QGdtYWlsLmNvbSIsImV4cCI6MTc5MDE4Mzg4MX0.2BiCvfbrOKqmPvE34L78zkDHmkMSUu8nJ5VM2fuPUyg&amp;utm_source=iterable&amp;utm_medium=email&amp;utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&amp;utm_content=preference_center>
+ • Unsubscribe 
+<https://www.malwarebytes.com/manage-communication-subscriptions?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InN1cGVycGluZzM3QGdtYWlsLmNvbSIsImV4cCI6MTc5MDE4Mzg4MX0.2BiCvfbrOKqmPvE34L78zkDHmkMSUu8nJ5VM2fuPUyg&amp;utm_source=iterable&amp;utm_medium=email&amp;utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&amp;utm_content=preference_center>
+Unsubscribe 
+<https://clicks.malwarebytes.com/s/u/q-1_rS2PggFrc2TYC4OnC71kytsEsKLRWN6bUtTNAqozsXslMxv8wZN55m76dPP9QytCEBLB2G1RvhHpcrBapd7miHy9n4pehS_S7CO7js2Udj_Ks-3aRbffQjih2qMQHD2Hv4KW8WWKkz8J311cIwQjup8S5rLBBAiK1xUynoxpFyw5DGj4YVkFU5Rq_ivM2zOiVWA5Gs8VAESP/0T5LWfR8jxSkZkB7JJK1mifq0_2yRIiX/24>
+Privacy Policy 
+<https://www.malwarebytes.com/legal/privacy-policy/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=privacy_policy>
+ • Terms of Service 
+<https://www.malwarebytes.com/tos/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=terms_of_service>
+ © 2026 Malwarebytes • 2445 Augustine Drive, Suite 550, Santa Clara, CA, USA, 
+95054 
+ 2445 Augustine Drive, Suite 550,
+ Santa Clara, CA, USA, 95054
+© 2026 Malwarebytes 
+
+
+ 
+<https://x.com/malwarebytes/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=X>
+ 
+<https://tiktok.com/@malwarebytesofficial/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=TikTok>
+ 
+<https://www.instagram.com/malwarebytesofficial/?hl=en/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=instagram>
+ 
+<https://www.youtube.com/user/Malwarebytes/?&utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=YouTube>
+ 
+<https://www.facebook.com/malwarebytes/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=facebook>
+ 
+<https://www.linkedin.com/company/malwarebytes/?utm_source=iterable&utm_medium=email&utm_campaign=b2c_pro_win_20260902_standardsalepromo_v1_178817705007&utm_content=linkedIn>
+[2026-09-04 22:35:52] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['Q: Giá sản phẩm đã bao gồm phí vận chuyển và thuế chưa?\nA: Giá niêm yết trên sản phẩm là giá gốc, chưa bao gồm phí vận chuyển.', 'Ưu đãi: Miễn phí vận chuyển cho đơn hàng từ 500.000 VNĐ trở lên.\n Q: Tôi có được kiểm tra hàng trước khi thanh toán (Đồng kiểm) không?'], 'context_found': True}
+[2026-09-04 22:35:52] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:35:59] [DEBUG] [__main__:53] - email.body: Hi Bình,
+
+[https://facebook.com/email/appredirect/?rid=100016142898442&fallback_uri=https%3A%2F%2Fwww.facebook.com%2Ftran.thuy.251385&native_uri=fb%3A%2F%2Fprofile%2F61555269646415&email_type=email] 
+
+View message[https://www.facebook.com/messenger/email/?recipient_fbid=100016142898442&sender_fbid=61555269646415&thread_fbid=7578020282298220&is_group_thread=0&source=msg&notif_id=1788369180817873&cta_type=view_message_body&is_fbm_redirect=0&is_e2ee_thread=1] 
+
+Go to profile[https://facebook.com/email/appredirect/?rid=100016142898442&fallback_uri=https%3A%2F%2Fwww.facebook.com%2Ftran.thuy.251385&native_uri=fb%3A%2F%2Fprofile%2F61555269646415&email_type=email] 
+
+Thanks,
+The Facebook team
+
+
+
+========================================
+This message was sent to superping37@gmail.com. If you don't want to receive these emails from Meta in the future, please follow the link below to unsubscribe.
+https://www.facebook.com/o.php?k=AfEtzhVuvh1m1HSvAT8zyX1PtfA&u=100016142898442&mid=65a82dc29f6ffG5af6d2ab550aG65a8325bff9d1G8431&ee=AQBnBk_1keB47p7L1Z8M39ZkSm4U1jP61sz8smweIYTd6lVqw-BCXA9Qj4T4MGOvPqZlUyzMUKF3vBL1vRC3
+Meta Platforms, Inc., Attention: Community Support, 1 Meta Way, Menlo Park, CA 94025
+
+
+[2026-09-04 22:36:01] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['Q: Giá sản phẩm đã bao gồm phí vận chuyển và thuế chưa?\nA: Giá niêm yết trên sản phẩm là giá gốc, chưa bao gồm phí vận chuyển.', 'CHÍNH SÁCH ĐƠN HÀNG & SẢN PHẨM\nQ: Sản phẩm của shop có sẵn không? Có đúng như hình không?\nA: Toàn bộ sản phẩm hiển thị trên website/fanpage đều là hàng có sẵn (trừ các mặt hàng ghi chú "Order").'], 'context_found': True}
+[2026-09-04 22:36:01] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:36:06] [DEBUG] [__main__:53] - email.body:           
+          Hi Trần Xuân Bình,
+          
+          Our Job Robot found 3 new ITviec Recruitment Consulting     jobs for you.
+          View My Jobs (https:/itviec.com/companies/itviec-recruitment-consulting?lab_jr_age=91-135&amp;amp;lab_jr_frequency=jr-daily&amp;amp;utm_campaign=jobrobot&amp;amp;utm_medium=cta-click&amp;amp;utm_source=Email)
+          
+          **************************************************
+          
+          Job 1:              Java Lead (Finance/Banking domain)
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    English • API • Microservices • Leadership • Spring Boot • Java
+          
+          Job 2:              Technical Scrum Master
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    English • AWS • DevOps • Technical Writing • Scrum
+          
+          Job 3:              Lead/Senior Security Engineer
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    English • Security  • DevSecOps • Python • Cybersecurity • Machine Learning
+          
+          View more  jobs in  at https:/itviec.com/companies/itviec-recruitment-consulting?lab_jr_age=91-135&amp;amp;lab_jr_frequency=jr-daily&amp;amp;utm_campaign=jobrobot&amp;amp;utm_medium=cta-click&amp;amp;utm_source=Email
+          
+          **************************************************
+          
+          By engaging with this email, you agree to ITviec’
+          Terms  Conditions (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B10jhahBVCcLLThECzRIiACedoKc84s08n2VjDXU-2F4-2BC35ATqa51SdO8sFdqCGQ6-2Bw-3D-3DqCYs_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqAfDjc011Xiqkt7WeXA3EKP96lz6UlopZDoRJJAUXP-2BevYsKI95B2zI0qoFmArogmqTktS8KPIVPAQstTRE8fjACONgX63jcYAk5yCh7PL3p7saoFtU-2BCMP-2BohWjIDdvHbSv19lgMtsPLh3DtuF0oQQM42-2F4goNzqABjAJ0C71sENdZ0E-2BgGQw2ajLEWuFfFAgQw-2FoycB1qeB-2BjeudXvRI-3D
+          and
+          Privacy Policy (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B10jhahBVCcLLThECzRIiAAyRwsv5oPBQ0Dz4Bfy5gq2-2FMHCmn5Edy7OKQdh59gcLA-3D-3DgFhS_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqAfDjc011Xiqkt7WeXA3EKdYCAxB-2BNVdOaMos898dq-2FV-2FTi1Fb7zj2Jz-2BLm6ktuWNUMC3hk4FwLjvU7VcaA5Kx2EByX-2Bq0CNjXcNHL-2FkAZIsfp5FsPXnrCUYc7dm-2Brl5-2Bw7TwTXp5mJa6pSZ9Ghr3K7g2gSVIdJWG21zYEXUfN5Rsew-2BTkdXFXaldQXL0t9vviCF0VNuTnvnfTugKjVjdk-3D
+          in relation to your privacy information.
+          Manage you Job Robot&quot; (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B5zKppq6zeRH3EWVKcc1om69SlW-2Bx9svp8iab83S88Lu66IN_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqAfDjc011Xiqkt7WeXA3EJ7Cx-2F-2FvkYdJgKJe77euYcIrPY56SJOttT8OF56qy78-2BXkSeYqqJjXg2mzyWyvprOX1nEaOIFQt3RpZhc3YZxG8TDMMSJYrWxCcGzD-2FOElQAZuarnwufVfqc0vMqsGzJPbvsl-2FxcPf5oVgy6ycQtvdcg7LCKftQgDzUYDS2aqeNWXPJrCk2h6rSgWfM6s0s9Uw-3D
+          •
+          Unsubscribe (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B4gvI0y-2BCjkBvOTgzra1bZ-2F6kv5sWhCZ7W9AK6sl-2FRqzNclrdwQDc7zL4wv2XlyAu41yDke7Il1FJ1MzWZnHgFQGTFj8eiagdlhhoai7cfSXhaSaD6GR1jviQ9hvsY93gnDbtEN8wNVxhEYpD6OUkJJsD8-2B-2FjV4HSpyc83oi6HH8HtNqw8mJZJu6cj-2BkMLbCzWTFFC18Rkd0VdfeccylOMl6qaFWaA1YblBeV9faXR2mdpPAf47IRIjYPbW2NevMqA-3D-3De2Um_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqAfDjc011Xiqkt7WeXA3EJdZihEKucq-2FswwBF32Hhoj8Mm0Aj-2FJjH7wnwEe1-2FtGj4pi6wt-2BDtSdiWhb2deULWdAq3QxsKxayqgtGJqLBPHLTcCmILU-2BT0kuju-2FPw751aBQlmiEBKhtDjtiS8tvS4fyS5AC2kVMvYzfoGk3UxtOx1ZsRceUe-2FZPBQx6hv-2FZdwN8nJgxLjrMSL2XASacob4M-3D
+          •
+          Unsubscribe All(https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B-2FsWcvqmugYTXvQTMH-2FLGQHuu5nZWOcixYvPphp-2FFpQyEDznlRUYYzhHEe2-2FHsTDo-2BtfQEb9VKYi-2F-2FyRTwFiCozMGO-2BDKYC73283R95pFMCMJSfCqvu7Sy-2BklNyGITTsqDvQzFDTuNYV48nZ1XKt-2FHmg7ACvc7I-2BnB-2FQq0KOj67-2BcYfs5-2FJ7RcAQ3jpBwYk-2FBUtsKIYb-2B725QgLN52uG9HxrI0c-2FIlBpkxDD89RP-2FB7vCvCPAx7CxWeic-2FqsqGtemTRXuaeW3MSrXpAeQX6LFQA-3DblTV_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQqAfDjc011Xiqkt7WeXA3EJNjuRCIA64-2FiDAXq0StEkbmIZqJmQq9PO6pHm8QXr1IKGBbHbq8fUA40EtTeI-2BFH60xr4PDawNT8IOqkm0ylbJaR86BkcNB7cgg-2FS1s-2F-2Bq5VV-2B2qcnZa05dZEuSVxj-2F-2F5iGx3fmVYwCNftDunyI4e9z-2F7PZBhpQUp-2BzxyNJBcObNhH09Mn3EoCwLtbZoO0lVU-3D
+
+
+[2026-09-04 22:36:10] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['🔄 CHÍNH SÁCH ĐỔI TRẢ & BẢO HÀNH\n Q: Tôi mua nhầm size hoặc không ưng ý thì có được đổi không?\n A: Shop hỗ trợ đổi size/mẫu trong vòng 7 ngày kể từ khi nhận hàng.', 'CHÍNH SÁCH ĐƠN HÀNG & SẢN PHẨM\nQ: Sản phẩm của shop có sẵn không? Có đúng như hình không?\nA: Toàn bộ sản phẩm hiển thị trên website/fanpage đều là hàng có sẵn (trừ các mặt hàng ghi chú "Order").'], 'context_found': True}
+[2026-09-04 22:36:10] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:36:15] [DEBUG] [__main__:53] - email.body: Hello
+
+[2026-09-04 22:36:19] [DEBUG] [__main__:55] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['CHÍNH SÁCH ĐƠN HÀNG & SẢN PHẨM\nQ: Sản phẩm của shop có sẵn không? Có đúng như hình không?\nA: Toàn bộ sản phẩm hiển thị trên website/fanpage đều là hàng có sẵn (trừ các mặt hàng ghi chú "Order").', 'Ưu đãi: Miễn phí vận chuyển cho đơn hàng từ 500.000 VNĐ trở lên.\n Q: Tôi có được kiểm tra hàng trước khi thanh toán (Đồng kiểm) không?'], 'context_found': True}
+[2026-09-04 22:36:19] [INFO] [__main__:57] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-04 22:38:30] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-04 22:38:30] [DEBUG] [src.integrations.gmail_client:107] - Bat dau quet mail
+[2026-09-04 23:02:18] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-04 23:02:18] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 12:55:08] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 12:55:08] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 13:30:50] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 13:30:50] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 13:30:51] [ERROR] [src.integrations.gmail_client:126] - Loi goi API list messages: object dict can't be used in 'await' expression
+[2026-09-05 13:36:03] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 13:36:03] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 13:36:59] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 13:36:59] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 13:37:16] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 13:37:16] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 13:39:15] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 13:39:15] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 13:39:21] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 13:39:21] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 13:42:58] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 13:42:58] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 14:17:19] [INFO] [__main__:214] - Bot đang khởi động...
+[2026-09-05 14:17:25] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:24:57] [INFO] [__main__:223] - Bot đã tắt kết nối an toàn.
+[2026-09-05 14:24:57] [INFO] [__main__:229] - Dừng bot bởi người dùng (Ctrl+C).
+[2026-09-05 14:25:22] [INFO] [__main__:214] - Bot đang khởi động...
+[2026-09-05 14:27:44] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:30:21] [INFO] [__main__:223] - Bot đã tắt kết nối an toàn.
+[2026-09-05 14:30:21] [INFO] [__main__:229] - Dừng bot bởi người dùng (Ctrl+C).
+[2026-09-05 14:30:48] [INFO] [__main__:214] - Bot đang khởi động...
+[2026-09-05 14:33:44] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:36:56] [INFO] [__main__:223] - Bot đã tắt kết nối an toàn.
+[2026-09-05 14:36:56] [INFO] [__main__:229] - Dừng bot bởi người dùng (Ctrl+C).
+[2026-09-05 14:37:22] [INFO] [__main__:214] - Bot đang khởi động...
+[2026-09-05 14:37:27] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:37:33] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:37:33] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 14:40:30] [INFO] [__main__:223] - Bot đã tắt kết nối an toàn.
+[2026-09-05 14:40:30] [INFO] [__main__:229] - Dừng bot bởi người dùng (Ctrl+C).
+[2026-09-05 14:40:57] [INFO] [__main__:214] - Bot đang khởi động...
+[2026-09-05 14:41:29] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:41:36] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:41:36] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 14:41:46] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:41:46] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 14:41:51] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:41:58] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:41:58] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 14:42:04] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:44:03] [INFO] [__main__:223] - Bot đã tắt kết nối an toàn.
+[2026-09-05 14:44:03] [INFO] [__main__:229] - Dừng bot bởi người dùng (Ctrl+C).
+[2026-09-05 14:44:29] [INFO] [__main__:214] - Bot đang khởi động...
+[2026-09-05 14:44:35] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:44:44] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:44:44] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 14:44:49] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:45:33] [INFO] [__main__:223] - Bot đã tắt kết nối an toàn.
+[2026-09-05 14:45:33] [INFO] [__main__:229] - Dừng bot bởi người dùng (Ctrl+C).
+[2026-09-05 14:45:56] [INFO] [__main__:214] - Bot đang khởi động...
+[2026-09-05 14:46:04] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:46:15] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:46:15] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 14:46:21] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:46:46] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:49:38] [INFO] [__main__:223] - Bot đã tắt kết nối an toàn.
+[2026-09-05 14:49:38] [INFO] [__main__:229] - Dừng bot bởi người dùng (Ctrl+C).
+[2026-09-05 14:50:05] [INFO] [__main__:214] - Bot đang khởi động...
+[2026-09-05 14:50:19] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:50:56] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:50:56] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 14:51:06] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:51:33] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:51:33] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 14:51:40] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 14:52:24] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 15:01:45] [INFO] [__main__:223] - Bot đã tắt kết nối an toàn.
+[2026-09-05 15:01:45] [INFO] [__main__:229] - Dừng bot bởi người dùng (Ctrl+C).
+[2026-09-05 15:02:46] [INFO] [__main__:233] - Bot đang khởi động...
+[2026-09-05 15:03:28] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 15:03:34] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 15:03:34] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 15:03:44] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 15:03:59] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 15:04:11] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 15:04:30] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 15:04:36] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 15:04:36] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 16:49:38] [INFO] [__main__:242] - Bot đã tắt kết nối an toàn.
+[2026-09-05 16:49:38] [INFO] [__main__:248] - Dừng bot bởi người dùng (Ctrl+C).
+[2026-09-05 16:50:48] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:50:48] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788536023
+[2026-09-05 16:51:03] [DEBUG] [src.core.generator:54] - email.body:           
+          Hi Trần Xuân Bình,
+          
+          Our Job Robot found 2 new ITviec Recruitment Consulting     jobs for you.
+          View My Jobs (https:/itviec.com/companies/itviec-recruitment-consulting?lab_jr_age=91-135&amp;amp;lab_jr_frequency=jr-daily&amp;amp;utm_campaign=jobrobot&amp;amp;utm_medium=cta-click&amp;amp;utm_source=Email)
+          
+          **************************************************
+          
+          Job 1:              Technical Scrum Master
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    English • AWS • DevOps • Technical Writing • Scrum
+          
+          Job 2:              Senior Data Engineer (Databricks, MLops, AWS)
+          Employer:           ITviec Recruitment Consulting
+          Salary:             You&amp;#39;ll love it
+          Required Skills:    Data Engineer • Cloud • AWS • English • Databricks • Terraform
+          
+          View more  jobs in  at https:/itviec.com/companies/itviec-recruitment-consulting?lab_jr_age=91-135&amp;amp;lab_jr_frequency=jr-daily&amp;amp;utm_campaign=jobrobot&amp;amp;utm_medium=cta-click&amp;amp;utm_source=Email
+          
+          **************************************************
+          
+          By engaging with this email, you agree to ITviec’
+          Terms  Conditions (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B10jhahBVCcLLThECzRIiACedoKc84s08n2VjDXU-2F4-2BC35ATqa51SdO8sFdqCGQ6-2Bw-3D-3DF-b3_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQm8DdlETMKD5ThAqBNBs-2FwvBvP95Usa1ogPPC6XwAxErOy3L-2FqGKsQI1dE5Iwd8w730NHQbRogkvO6YVJrnjcA9wMAvw4M0Ulay1W-2F8kfWmkp7tOYOS2DyJoI2tJYcxvjY-2F7JiK5ZPD-2BAAGMK90jX-2B-2BgzFWwsa-2BtKITtzQ48ZeJ5Y5APFtuvI7JQ7HP2UktF0TVgcHAM9KVt7NyPQEVotIc-3D
+          and
+          Privacy Policy (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B10jhahBVCcLLThECzRIiAAyRwsv5oPBQ0Dz4Bfy5gq2-2FMHCmn5Edy7OKQdh59gcLA-3D-3D9HIi_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQm8DdlETMKD5ThAqBNBs-2FwsFNRRS1M-2F5hYoP2yCwHXRG-2B03eLxWtji8T7oWkeH1nYoCRKC5qamwWFPU3H4cveCp-2BGNwAAbonuGgaz4SYvdcC5OnDTNIO1ROzRWfj0-2B9v-2FssdZ4i5G8OpGW0F0ic0uI-2BtWcWQC67HyXAHsx94sDJi-2BOD5ZUoSl0yIElBCb2cELFVCd8VJHTKS-2FjL8Blqee-2Fw-3D
+          in relation to your privacy information.
+          Manage you Job Robot&quot; (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B5zKppq6zeRH3EWVKcc1om69SlW-2Bx9svp8iab83S88LurEPE_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQm8DdlETMKD5ThAqBNBs-2FwtijsPts6YAB3PENdjb56GTuR1OEJhVURPzWiUE76vQwjtVHxG2dyqi-2BPGXpSPEiyXD7vgdJq3qR-2BJilIOqQl-2BnUGZ1VFrlP0woH3ATrsk1-2F540ZcPPuhIQAVYaPHCG60RnvB6z-2BtictqwRvizag16TThdZ84BLCBmIm1bXsVwjxxiGgNxbVJbon-2Fjn13T52z0-3D
+          •
+          Unsubscribe (https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B4gvI0y-2BCjkBvOTgzra1bZ-2F6kv5sWhCZ7W9AK6sl-2FRqzNclrdwQDc7zL4wv2XlyAu41yDke7Il1FJ1MzWZnHgFQGTFj8eiagdlhhoai7cfSXhaSaD6GR1jviQ9hvsY93gnDbtEN8wNVxhEYpD6OUkJJsD8-2B-2FjV4HSpyc83oi6HH8HtNqw8mJZJu6cj-2BkMLbCzWTFFC18Rkd0VdfeccylOMl6qaFWaA1YblBeV9faXR2mdpPAf47IRIjYPbW2NevMqA-3D-3DqrpH_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQm8DdlETMKD5ThAqBNBs-2FwtEqt7FQJeWfE2zeTwTrz-2FVqV9w3hLfjVyXNIsqZsQWF3JGOg2902t8bL0YlvLaehEXn9odxvEcgfe5gk7CbkSOgTKpZudPH07GRHszkCTqmu05Gd8HyjoWj6mWsedigniaiqpQqDiKTurrxPPP05l7Hyli-2FLPNYj92WAK0dBLBjlxvJCWxSLXyFCtPUJ98dPU-3D
+          •
+          Unsubscribe All(https://links.itviec.com/ls/click?upn=u001.mmWLJ8GjLuy2fZX9ca58B-2FsWcvqmugYTXvQTMH-2FLGQHuu5nZWOcixYvPphp-2FFpQyEDznlRUYYzhHEe2-2FHsTDo-2BtfQEb9VKYi-2F-2FyRTwFiCozMGO-2BDKYC73283R95pFMCMJSfCqvu7Sy-2BklNyGITTsqDvQzFDTuNYV48nZ1XKt-2FHmg7ACvc7I-2BnB-2FQq0KOj67-2BcYfs5-2FJ7RcAQ3jpBwYk-2FBUtsKIYb-2B725QgLN52uG9HxrI0c-2FIlBpkxDD89RP-2FB7vCvCPAx7CxWeic-2FqsqGtemTRXuaeW3MSrXpAeQX6LFQA-3DEjnD_VVKIrgb5a4UBjo5BoBYPetrzRhUujtBheuZrryFWKqT8cnTLDyO5cLYk7ZWVaGcZWn-2FOTe-2FOmvtQLY-2BvfGxhQm8DdlETMKD5ThAqBNBs-2Fwt42oNTrf7SDrkUU5817KzwdJLMryYFqpN3SOYj5ySV1Eza8QMAIspetbdjMNBIEKNh-2Bd-2BMPkIE64PBlDsUPa9ggnAWGYeihlhk5V2vbi-2BzhyuKgoGvcs1dqSj26bvWTB20UCALgjykx4yQXrnxeND-2F308VBoG-2BWRBdcVIRt0dTi-2BZ2s4-2BD7-2BU-2F3tZpKml-2BuQ4-3D
+
+
+[2026-09-05 16:51:11] [DEBUG] [src.core.generator:56] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['Khách hàng thanh toán phí ship hai chiều.', '🔄 CHÍNH SÁCH ĐỔI TRẢ & BẢO HÀNH\n Q: Tôi mua nhầm size hoặc không ưng ý thì có được đổi không?\n A: Shop hỗ trợ đổi size/mẫu trong vòng 7 ngày kể từ khi nhận hàng.'], 'context_found': True}
+[2026-09-05 16:51:11] [INFO] [src.core.generator:58] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-05 16:51:19] [DEBUG] [src.core.generator:54] - email.body: Hi Bình,
+
+💬 Trần Văn Thanh commented on a reel.
+
+Thanks,
+The Facebook team
+
+
+
+========================================
+This message was sent to superping37@gmail.com. If you don't want to receive these emails from Meta in the future, please follow the link below to unsubscribe.
+https://www.facebook.com/o.php?k=AfHmXV1WMDaCFgUWZJEVVSsV3K4&u=100016142898442&mid=65ab3a4125b07G5af6d2ab550aG65ab3eda85dd9G207c&ee=AQCQaqtq2h8o6cMJekhdHsNBbjikKkOE1w4YXwqpoyakplp9-0eq6RdSBH5saKlpLI0uXmSD8irsshruegQL
+Meta Platforms, Inc., Attention: Community Support, 1 Meta Way, Menlo Park, CA 94025
+To help keep your profile secure, please don't forward this email. Follow the link below to learn more.
+https://www.facebook.com/email_forward_notice/?mid=65ab3a4125b07G5af6d2ab550aG65ab3eda85dd9G207c
+
+
+[2026-09-05 16:51:27] [DEBUG] [src.core.generator:56] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['Q: Giá sản phẩm đã bao gồm phí vận chuyển và thuế chưa?\nA: Giá niêm yết trên sản phẩm là giá gốc, chưa bao gồm phí vận chuyển.', 'Khách hàng thanh toán phí ship hai chiều.'], 'context_found': True}
+[2026-09-05 16:51:27] [INFO] [src.core.generator:58] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-05 16:52:48] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:52:48] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788601848
+[2026-09-05 16:56:19] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:56:20] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788601848
+[2026-09-05 16:56:20] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 16:57:05] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:57:11] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:57:11] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 16:57:21] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:57:26] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:57:26] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602180
+[2026-09-05 16:57:27] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 16:57:38] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:57:44] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:57:44] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 16:57:51] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:58:28] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:58:28] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602246
+[2026-09-05 16:58:29] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 16:59:45] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 16:59:45] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602308
+[2026-09-05 16:59:45] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:00:05] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:00:10] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:00:10] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 17:00:17] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:00:28] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:00:37] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:00:45] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:00:51] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:00:51] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602385
+[2026-09-05 17:00:52] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:01:12] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:01:53] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:01:53] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602451
+[2026-09-05 17:01:54] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:02:56] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:02:56] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602513
+[2026-09-05 17:02:57] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:03:58] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:03:58] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602576
+[2026-09-05 17:04:00] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:04:40] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:05:02] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:05:02] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602638
+[2026-09-05 17:05:03] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:05:04] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:05:10] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:05:10] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 17:05:45] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:05:52] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:05:52] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 17:06:11] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:06:11] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602702
+[2026-09-05 17:06:20] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:06:24] [DEBUG] [src.core.generator:54] - email.body: Hello
+
+[2026-09-05 17:06:26] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:06:26] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 17:06:27] [DEBUG] [src.core.generator:56] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['CHÍNH SÁCH ĐƠN HÀNG & SẢN PHẨM\nQ: Sản phẩm của shop có sẵn không? Có đúng như hình không?\nA: Toàn bộ sản phẩm hiển thị trên website/fanpage đều là hàng có sẵn (trừ các mặt hàng ghi chú "Order").', 'Ưu đãi: Miễn phí vận chuyển cho đơn hàng từ 500.000 VNĐ trở lên.\n Q: Tôi có được kiểm tra hàng trước khi thanh toán (Đồng kiểm) không?'], 'context_found': True}
+[2026-09-05 17:06:27] [INFO] [src.core.generator:58] - Mail không thuộc dạng gửi tự động, lưu id mail vào database
+[2026-09-05 17:06:40] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:06:59] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:07:05] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:07:05] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 17:07:28] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:07:28] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602771
+[2026-09-05 17:07:29] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:08:30] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:08:30] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602848
+[2026-09-05 17:08:42] [DEBUG] [src.core.generator:54] - email.body: Tôi muốn hủy hàng
+
+[2026-09-05 17:08:44] [DEBUG] [src.core.generator:56] - response: {'answer': 'Bạn có thể hủy đơn hàng trong vòng 30 phút kể từ khi đặt hàng bằng cách gọi trực tiếp đến Hotline: [Số điện thoại].', 'sources': ['A: Bạn có thể hủy hoặc đổi thông tin đơn hàng trong vòng 30 phút kể từ khi đặt hàng bằng cách gọi trực tiếp đến Hotline: [Số điện thoại].', 'Cửa hàng cam kết sản phẩm thực tế giống ảnh 100%. \nMàu sắc có thể chênh lệch 3-5% do ánh sáng màn hình.\nQ: Tôi có thể hủy hoặc thay đổi đơn hàng đã đặt không?'], 'context_found': True}
+[2026-09-05 17:08:45] [INFO] [src.integrations.gmail_client:270] - Tao ban nhap thanh cong 1a0710abebfcad8f
+[2026-09-05 17:09:45] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:09:45] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602910
+[2026-09-05 17:09:46] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:10:44] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:10:50] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:10:50] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 17:10:52] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:10:52] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788602985
+[2026-09-05 17:10:52] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:10:55] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:10:55] [DEBUG] [src.integrations.gmail_client:113] - Bat dau quet mail
+[2026-09-05 17:11:53] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:11:53] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788603052
+[2026-09-05 17:11:54] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu
+[2026-09-05 17:12:55] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-05 17:12:55] [DEBUG] [src.integrations.gmail_client:161] - Bat dau quet mail tu 1788603113
+[2026-09-05 17:12:55] [INFO] [src.integrations.gmail_client:175] - Khong co email nao trong hop thu

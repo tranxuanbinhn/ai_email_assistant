@@ -6,6 +6,7 @@ from .ingest import ingest_data
 from .rag_engine import RAGEngine
 from src.integrations.gmail_client import Gmailclient
 from pathlib import Path
+import asyncio
 import os
 import json
 from src.db.database import init_db
@@ -32,9 +33,9 @@ class Generation:
             return False
         else:
             return True
-    def get_sent_mail_one_day(self)->List[MailSchema]:
+    async def get_sent_mail_one_day(self)->List[MailSchema]:
         email_lient = Gmailclient(token_path=TOKEN_PATH, credential_path=CREDENTIAL_PATH)
-        return email_lient.get_sent_mail_one_days()
+        return await email_lient.get_sent_mail_one_days()
         
     def get_deccision(self):
         email_lient = Gmailclient(token_path=TOKEN_PATH, credential_path=CREDENTIAL_PATH)
@@ -58,11 +59,13 @@ class Generation:
                     save_email_not_process(db_session=session, msg_id=email.id)
                 else:   
                     email_lient.message_send(email.sender,f"REPLY {email.subject}", response['answer'])
-    def get_mails_from_not_processed(self,ids:List[str])->List[MailSchema]:
+    async def get_mails_from_not_processed(self,ids:List[str])->List[MailSchema]:
+        result_list_mail:List[MailSchema] = []
         email_lient = Gmailclient(token_path=TOKEN_PATH, credential_path=CREDENTIAL_PATH)
         for id in ids:
-            email = email_lient.get_email_from_id(id)
-            logger.debug(email.print())
+            email = await email_lient.get_email_from_id(id)
+            result_list_mail.append(email)
+        return result_list_mail
     def delete_mail_process(self, id:str) -> bool:
         try:
             
@@ -71,14 +74,25 @@ class Generation:
         except Exception as e:
             logger.error("Có lỗi xảy ra khi xóa message id")
             return False
-        
-if __name__ == "__main__":
-    gen = Generation()
+    async def get_email_not_process_and_return_data(self)->List[MailSchema]:
+        ids_mail =get_email_not_process(session)
+        return await self.get_mails_from_not_processed(ids=ids_mail)    
+import asyncio
+
+#async def main():
+#    gen = Generation(...)
+#    # Dùng await để đợi hàm chạy xong và lấy kết quả thực tế
+#    mails = await gen.get_email_not_process_and_return_data()
+#    print("mails", mails)
+
+#if __name__ == "__main__":
+    #gen = Generation()
     #gen.get_deccision()
     #ids_mail = get_email_not_process(session)
     #print(ids_mail)
     #gen.get_mails_from_not_processed(ids=ids_mail)
-    mails = gen.get_sent_mail_one_day()
-    for mail in mails:
-        print(mail)
-
+    #mails = gen.get_sent_mail_one_day()
+    #for mail in mails:
+    #    mail.print()
+    #asyncio.run(main())
+   
