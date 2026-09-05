@@ -1,0 +1,30 @@
+[2026-09-02 14:06:41] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 14:06:42] [DEBUG] [src.integrations.gmail_client:104] - Bat dau quet mail tu 1788266976
+[2026-09-02 14:06:43] [INFO] [src.integrations.gmail_client:118] - Khong co email nao trong hop thu
+[2026-09-02 14:06:44] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 14:07:52] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 14:07:52] [DEBUG] [src.integrations.gmail_client:104] - Bat dau quet mail tu 1788332801
+[2026-09-02 14:07:58] [DEBUG] [__main__:49] - email.body: Hello
+
+[2026-09-02 14:08:03] [DEBUG] [__main__:51] - response: {'answer': 'Tài liệu quy định hiện tại không có thông tin về vấn đề này.', 'sources': ['CHÍNH SÁCH ĐƠN HÀNG & SẢN PHẨM\nQ: Sản phẩm của shop có sẵn không? Có đúng như hình không?\nA: Toàn bộ sản phẩm hiển thị trên website/fanpage đều là hàng có sẵn (trừ các mặt hàng ghi chú "Order").', 'Ưu đãi: Miễn phí vận chuyển cho đơn hàng từ 500.000 VNĐ trở lên.\n Q: Tôi có được kiểm tra hàng trước khi thanh toán (Đồng kiểm) không?'], 'context_found': True}
+[2026-09-02 14:08:03] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 14:08:03] [DEBUG] [__main__:60] - None
+[2026-09-02 14:10:31] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 14:10:32] [DEBUG] [__main__:60] - None
+[2026-09-02 14:12:48] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 14:12:49] [DEBUG] [__main__:61] - None
+[2026-09-02 14:13:36] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 14:13:37] [DEBUG] [__main__:61] - None
+[2026-09-02 21:54:11] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 21:54:11] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-02 21:54:13] [INFO] [src.integrations.gmail_client:116] - Khong co email nao trong hop thu
+[2026-09-02 21:55:47] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 21:55:47] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-02 21:56:43] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 21:56:43] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-02 21:58:43] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 21:58:43] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-02 22:00:10] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 22:00:10] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail
+[2026-09-02 22:01:54] [INFO] [src.integrations.gmail_client:54] - Connected
+[2026-09-02 22:01:54] [DEBUG] [src.integrations.gmail_client:102] - Bat dau quet mail

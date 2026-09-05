@@ -1,3 +1,8 @@
 ./config/credentials.json
 ./config/token.json
-./.venv
+.env
+.venv/
+__pycache__/
+*.pyc
+./data/*
+chroma_db/
